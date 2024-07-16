@@ -102,3 +102,5 @@ class CatViewSet(viewsets.ModelViewSet):
     serializer_class = CatSerializer
 
 # ReadOnlyModelViewSet - работает так же как предыдущий, но предоставляет только чтение
+
+# Проверка коммита
